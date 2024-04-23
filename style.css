@@ -1,0 +1,10 @@
+.f{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.user-details img{
+    width: 80px;
+}
+.user-details{
+    border-left: 4px solid #c309f7;
+}
